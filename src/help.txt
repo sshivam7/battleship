@@ -1,0 +1,22 @@
+Starting a Multiplayer Game:
+    Enter a 4 digit port number between 1024 and 9999
+    and click on the create a server button. Next Connect
+    the two client players by using the same port number
+    and clicking on the connect to server button.
+
+Single Player Game:
+    Choose the single player button to play against an AI
+
+Rules:
+    Start by placing your ships on your grid (bottom grid - you
+    may also choose to rotate your ships by clicking the
+    rotate button).
+
+    Once you have placed all five ships click ready
+    (wait for opponent if playing multi-player).
+    Once the game begins take turns guessing the location
+    of the enemy ships using the top grid. Once all enemy
+    ships have been sunk or you have lost all of your ships
+    the game is over. The victor is the one with surviving
+    ships.
+EOF
