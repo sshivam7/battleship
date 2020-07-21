@@ -4,7 +4,7 @@ The program implements the ServerSocket and Socket classes from the java.net lib
 Communication between the server and client is handled using a separate thread in order to ensure that user can continue to interact with the game interface.
 
 ## Demo
-![Demo](screenshot.png)
+![Demo](demo.png)
 
 ## Original readme.txt
 ~~~~~~~~~~~~~~~~~    ----------------------------------     ~~~~~~~~~~~~~~~~~ 
